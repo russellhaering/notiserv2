@@ -1,0 +1,5 @@
+Note:
+    This is nowhere near stable, reliable or complete.
+
+Use (Debug):
+    'twistd -noy notiserv2.py'
